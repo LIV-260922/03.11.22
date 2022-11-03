@@ -1,9 +1,4 @@
-﻿int number1 = int.Parse(Console.ReadLine());
-int number2 = int.Parse(Console.ReadLine());
-int oddNumberCount = 0;
-int evenNumberCount = 0;
-int oddsumm =0 ;
-int evensumm=0;
+﻿
 while (number1 <= number2)
 {
     if (number1 % 2 == 0)
